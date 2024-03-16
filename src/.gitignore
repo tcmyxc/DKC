@@ -1,0 +1,9 @@
+/.vscode
+work_dir/
+logs/
+**/__pycache__
+data/
+*.log
+**/.ipynb_checkpoints/
+work_dir
+.idea
