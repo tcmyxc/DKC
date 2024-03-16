@@ -1,5 +1,9 @@
 # Deep Kernel Calibration
 
+[![conference](https://img.shields.io/badge/Conference-IJCNN_2024-ff69b4)](https://2024.ieeewcci.org/)
+&emsp;[![doc](https://img.shields.io/badge/Docs-Latest-orange)](README.md)
+&emsp;[![license](https://img.shields.io/badge/License-Apache--2.0-blue)](LICENSE)
+
 
 ## License
 
