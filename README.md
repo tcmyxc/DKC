@@ -1,5 +1,4 @@
-# dkc
- Deep Kernel Calibration
+# Deep Kernel Calibration
 
 
 ## License
